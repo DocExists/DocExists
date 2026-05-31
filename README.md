@@ -17,8 +17,8 @@ I operate best where mistakes require instant data-driven checklists. In NAUI de
 
 ##  PARALLEL TRACKS
 * **Languages & Core:** C++ (learning low-level optimization) // Python // PyTorch // Assembly // Markdown
-* **Hardware:** SolidWorks CAD // Circuit Schematics // Digital Millimeter Prototyping
-* **Audio:** Tracking progressive metal riffs for my band project, *YukonSun* // Classical Piano (4 hours/day)
+* **Hardware:** SolidWorks CAD // Circuit Schematics //
+* **Audio:** Riffing for my band project, *YukonSun* // Classical Piano (4 hours/day)
 
 ---
 # DocExists
